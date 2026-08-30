@@ -14,6 +14,9 @@ Steppe, Green City, Art-Bazar) для приглашённых профессо�
 Черновик готов и опубликован как Artifact:
 https://claude.ai/code/artifact/6d477439-74b5-4fe2-807d-ffa72c9b797f
 
+Код также хранится в приватном репозитории на GitHub:
+https://github.com/DanaBliyeva/almaty-edges
+
 ## Что сделано
 
 - Контент (площадь, число комнат, описание атмосферы) взят из
